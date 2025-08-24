@@ -52,7 +52,3 @@ Such systems can be applied in:
 - Use **categorical crossentropy** for better multi-class handling.  
 - Apply **transfer learning** (VGG16, ResNet, MobileNet).  
 - Extend to **real-time webcam-based gesture recognition**.  
-
----
-
-## 📂 Project Structure  
